@@ -1,1 +1,1 @@
-System.Console.WriteLine("Student Management Feature");
+System.Console.WriteLine("Add, Edit, Delete Student");
