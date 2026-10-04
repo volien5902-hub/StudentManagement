@@ -1,1 +1,1 @@
-System.Console.WriteLine("Student Management System");
+System.Console.WriteLine("System initialized successfully.");
